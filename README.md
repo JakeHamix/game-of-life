@@ -9,6 +9,5 @@ through a configuration file and then just sit back and enjoy the show!
 
 This application is written in Node, but unless you want to run the tests, you don't need to download any packages :)
 
-If you'd like to, then:
-
-"npm i" => "npm run-script test"
+Simply run the application with "node app", or make changes in the "local.json" file if desired.
+If you'd like to run the tests, then: "npm i" => "npm run-script test"

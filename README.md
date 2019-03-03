@@ -11,5 +11,4 @@ This application is written in Node, but unless you want to run the tests, you d
 
 If you'd like to, then:
 
-"npm i"
-"npm run-script test"
+"npm i" => "npm run-script test"
